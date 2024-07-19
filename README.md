@@ -11,7 +11,7 @@ This is a React application bootstrapped with Vite. The application fetches a li
 ## How to Run
 1. Clone the repository:
   ```
-  git clone https://github.com/your-username/top-courses-catalog.git
+  git clone https://github.com/BhupeshChaudhari/top-courses-react.git
   cd top-courses-catalog
   ```
 
